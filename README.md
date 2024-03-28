@@ -5,8 +5,9 @@ Docker Image for GMVault
 Code Status
 -----------
 
-[![Docker Automated build](https://img.shields.io/docker/automated/aubertg/gmvault-docker)](https://hub.docker.com/r/aubertg/gmvault-docker/builds/)
+[![DockerHub Automated Build](https://img.shields.io/docker/automated/aubertg/gmvault-docker)](https://hub.docker.com/r/aubertg/gmvault-docker/builds/)
 [![Docker Pulls](https://img.shields.io/docker/pulls/aubertg/gmvault-docker.svg)](https://hub.docker.com/r/aubertg/gmvault-docker/)
+[![GH Actions Docker Automated Build](https://github.com/guillaumeaubert/gmvault-docker/actions/workflows/build_docker.yml/badge.svg)](https://github.com/guillaumeaubert/gmvault-docker/actions/workflows/build_docker.yml)
 
 
 Overview
